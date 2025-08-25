@@ -1,0 +1,36 @@
+Escapade Worlds License (Copyleft-Attribution-NonCommercial) - Version 1
+Published: 2025-08-23
+
+Copyright:
+The original author of each World retains full copyright in their work.
+
+Escapade's Rights:
+By submitting or licensing Worlds to Escapade, authors grant Escapade a perpetual, worldwide, royalty-free license to redistribute, modify, and sublicense these Worlds.
+
+Redistribution and Modification Rights:
+Any person or entity may copy, redistribute, modify, or build upon Escapade Worlds included in this archive, royalty-free and in perpetuity, provided that such use is strictly non-commercial.
+
+Any modifications of Escapade Worlds must grant Escapade the same perpetual rights to redistribute, modify, and sublicense those modifications, royalty-free.
+
+Redistribution of Escapade Worlds, whether standalone or bundled with other works, must include a clear link to the original source at https://escapade.fun (or its successor domain).
+
+Attribution Requirement:
+Whenever Escapade Worlds are made available on a website, platform, or package, the distributor must clearly identify them as Escapade Worlds and provide a visible link to https://escapade.fun (or successor domain).
+
+License Inclusion Requirement:
+All redistributions of Escapade Worlds must include a conspicuous link to the full text of this license, either by:
+- Direct inclusion of the complete license text, or
+- A clearly visible link to the official license at https://escapade.fun/escapade_world_license.txt (or successor domain).
+
+Non-Commercial Restriction:
+Except for Escapade itself, Escapade Worlds and their modifications may not be used by any other website, platform, or service that generates revenue in any form, including but not limited to advertising, subscriptions, donations, sales, or any other monetization method.
+
+All hosting, sharing, or redistribution by parties other than Escapade must remain free of charge on completely non-revenue-generating platforms.
+
+Escapade retains the right to use, monetize, and commercially exploit Escapade Worlds in any manner, and may grant separate commercial licenses to third parties at its discretion.
+
+No Additional Restrictions:
+Distributors may not impose legal terms, technological measures, or other restrictions that would limit the rights granted by this license.
+
+Jurisdiction:
+Any disputes arising under this license shall be governed by the laws and courts of Escapade's choosing, as determined by Escapade at the time of dispute.
